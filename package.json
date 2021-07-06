@@ -20,14 +20,15 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "@ffprobe-installer/ffprobe": "^1.0.12",
-    "algorithmia": "^0.3.10",
     "express": "^4.16.4",
     "gm": "^1.23.1",
     "googleapis": "^38.0.0",
+    "ibm-watson": "^6.1.1",
     "image-downloader": "^3.4.2",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.14",
-    "videoshow": "^0.1.12",
-    "watson-developer-cloud": "^3.18.2"
+    "superagent": "^6.1.0",
+    "unidecode": "^0.1.8",
+    "videoshow": "^0.1.12"
   }
 }
